@@ -59,3 +59,9 @@ pip install -r requirements.txt
 2. Uygulamayı Başlatma
 ```bash
 streamlit run main.py
+------------
+
+## Lisans
+
+Bu proje, [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) lisansı ile lisanslanmıştır.
+© 2025 Feyza Kıranlıoğlu ve FDeep.AI Takımı
